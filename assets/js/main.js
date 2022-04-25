@@ -51,7 +51,8 @@
 
     $(function () {
         element.typed({
-            strings: ["Desarrollador Web.","JavaScript", "React Js.", ],
+            strings: ["Web Developer.","JavaScript.", "React Js.",
+             "HTML5.", "CSS3.", "Bootstrap.", "Sass.","Git."],
             typeSpeed: 100,
             loop: true,
             autoplay: true,
