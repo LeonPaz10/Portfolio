@@ -53,7 +53,7 @@
         element.typed({
             strings: ["Web Developer.","JavaScript.", "React Js.",
              "HTML5.", "CSS3.", "Bootstrap.", "Sass.","Git."],
-            typeSpeed: 100,
+            typeSpeed: 50,
             loop: true,
             autoplay: true,
         });
