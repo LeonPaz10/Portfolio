@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ar-poncho": "^2.0.222",
+    "bootstrap-icons": "^1.8.3"
+  }
+}
