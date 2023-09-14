@@ -52,6 +52,7 @@
     $(function () {
         element.typed({
             strings: ["Web Developer.","JavaScript.", "React Js.",
+             "Python", "Django.", "Sass.","Node Js.","MySQL","SQLite.",
              "HTML5.", "CSS3.", "Bootstrap.", "Sass.","Git."],
             typeSpeed: 50,
             loop: true,
